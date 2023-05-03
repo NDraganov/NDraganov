@@ -14,9 +14,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: ABOUT
 
 I am a Web Developer
 
@@ -25,7 +26,7 @@ I am a Web Developer
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: LANGUAGES and TOOLS
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -36,3 +37,9 @@ I am a Web Developer
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: STATS
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NDraganov)](https://git.io/streak-stats)
