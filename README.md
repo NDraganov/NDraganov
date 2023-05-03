@@ -1,10 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/nedyalko-draganov-12958a235/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+    <a href="https://www.linkedin.com/in/nedyalko-draganov-12958a235/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=NDraganov&style=flat-square&color=blue" alt=""/>
 
 </div>
 <!--
