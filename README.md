@@ -44,4 +44,4 @@ I am a Web Developer
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NDraganov)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NDraganov&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NDraganov&show_icons=true)
